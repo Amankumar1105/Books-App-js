@@ -30,7 +30,7 @@ body {
 }
 
 .right > .heading > span {
-    color: blue;
+    color: #4F2EE8;
     animation: booking 3s linear infinite;
 }
 
