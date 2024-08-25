@@ -1,7 +1,7 @@
-Project Overview
+Project Overview:- 
 This project is a web application that displays a list of book categories and top-selling books. It includes a dynamic dark mode toggle, a signup/signin feature, and interactive book details. The application is built with HTML, CSS, and JavaScript, and it fetches data from an external API to display the book categories and details.
 
-Key Features
+Key Features:
 Dark Mode Toggle:
 
 The dark mode toggle allows users to switch between light and dark themes. The preference is saved in localStorage, so the user's choice is preserved across sessions.
@@ -18,7 +18,9 @@ Book Details Display:
 
 Clicking on a book card displays detailed information about the book, including an image, author, title, and a brief description.
 A button allows users to add the book to their shopping list, which changes its state after being clicked.
-JavaScript Functionality
+
+JavaScript Functionality:-
+
 Dark Mode:
 
 The dark mode is toggled by listening to changes on a checkbox. The mode is then saved to localStorage and applied to the page and forms on subsequent loads.
